@@ -1,7 +1,7 @@
 ### Cheat sheet
 
 - [.NET](/dotnet.md)
-- [GIT](/git/index.md)
+- [GIT](/git.md)
 - [JavaScript](/javascript.md)
 - [Cloud Foundry](/cloud-foundry.md)
 - [CMD](/cmd.md)
