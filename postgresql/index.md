@@ -15,13 +15,13 @@
 create database
 
 ``` sql
-CREATE DATABASE database`;
+CREATE DATABASE database;
 ```
 
 create table
 
 ``` sql
-CREATE TABLE table (column type constraint, ...)`;
+CREATE TABLE table (column type constraint, ...);
 ```
 
 drop table
