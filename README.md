@@ -7,4 +7,4 @@
 - [CMD](/cmd/index.md)
 - [HTML](/html/index.md)
 - [MS-SQL](/ms-sql/index.md)
-- [PostgreSQL](/postgresql/index.md)- 
+- [PostgreSQL](/postgresql/index.md)
