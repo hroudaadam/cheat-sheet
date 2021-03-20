@@ -2,7 +2,6 @@
 
 #### Base structure
 
-
 ```html
 <html>
   <head>
