@@ -1,9 +1,0 @@
-### .NET
-
-#### EF Tools
-
-`Add-Migration name_of_migration` - create new migration
-
-`Update-Database` - update database with latest migration
-
-`Remove-Migration name_of_migration` - remove migration
