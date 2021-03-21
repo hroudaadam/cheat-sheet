@@ -1,6 +1,6 @@
 ### .NET
 
-#### EF Tools
+#### EntityFramework Tools
 
 `Add-Migration name_of_migration` - create new migration
 
