@@ -1,6 +1,6 @@
-### HTML
+# HTML
 
-#### Base structure
+## Base structure
 
 ```html
 <html>

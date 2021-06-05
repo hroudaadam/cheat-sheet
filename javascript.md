@@ -1,14 +1,14 @@
-### JavaScript
+# JavaScript
 
-#### npm
+## npm
 
 `npm install` - install all dependencies
 
-#### Express.js
+## Express.js
 
 `npx express-generator .` - create project structure
 
-#### Vue.js
+## Vue.js
 
 `npm install -g @vue/cli` - install Vue CLI
 

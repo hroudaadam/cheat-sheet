@@ -1,6 +1,6 @@
-### PostgreSQL
+# PostgreSQL
 
-#### CLI
+## CLI
 
 `psql -U user -d database` - login
 
@@ -10,7 +10,7 @@
 
 `\dt` - list tables
 
-#### Queries
+## Queries
 
 create database
 

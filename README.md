@@ -1,4 +1,4 @@
-### Cheat sheet
+# Cheat sheet
 
 - [.NET](/dotnet.md)
 - [GIT](/git.md)

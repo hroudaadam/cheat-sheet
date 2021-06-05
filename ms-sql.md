@@ -1,33 +1,33 @@
-### MS-SQL
+# MS-SQL
 
 create database
 
-``` tsql
+``` sql
 CREATE DATABASE [database];
 ```
 
 delete table
 
-``` tsql
+``` sql
 DROP TABLE [table];
 ```
 
 insert row
 
-``` tsql
+``` sql
 INSERT INTO [table] (column, ...)
 VALUES (value, ...);
 ```
 
 edit row
 
-``` tsql
+``` sql
 UPDATE [table] SET [column] = [value];
 ```
 
 delete rows
 
-``` tsql
+``` sql
 DELETE FROM [table];
 ```
 
