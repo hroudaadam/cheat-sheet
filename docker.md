@@ -2,7 +2,7 @@
 
 ## CLI
 
-`docker build -t tag_name . ` - build new image
+`docker build -t tag_name . `  - build new image
 
 ` docker run -p public_port:container_port ` - create container
 
