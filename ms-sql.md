@@ -52,5 +52,15 @@ delete rows
 DELETE FROM table;
 ```
 
+join
+
+``` sql
+SELECT * 
+FROM left_table lt
+LEFT/RIGHT/INNER/FULL JOIN right_table rt
+ON lt.id = rt.id
+```
+
+
 
 
